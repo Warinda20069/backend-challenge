@@ -78,5 +78,6 @@ output = `210122`
     }
 }
 
-#test commit
+# For test.go
+    go get github.com/stretchr/testify
 ```
